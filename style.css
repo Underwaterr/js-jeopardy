@@ -15,6 +15,7 @@ body {
 }
 
 a { 
+  font-family: monospace;
   color: yellow; 
 }
 
