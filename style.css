@@ -14,7 +14,11 @@ body {
   text-shadow: 4px 4px 0 black;
 }
 
-a { 
+p {
+  text-align: center;
+}
+
+a {
   font-family: monospace;
   color: yellow; 
 }
